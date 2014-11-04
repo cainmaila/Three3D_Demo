@@ -1,0 +1,1693 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"v",
+				"hover  (pseudo-class)"
+			],
+			[
+				"fl",
+				"fl-l	float: left;"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"bg",
+				"bgc	background-color: #${1:fff};"
+			],
+			[
+				"s",
+				"style	Tag"
+			],
+			[
+				"get",
+				"getElementById  (function)"
+			],
+			[
+				"tes",
+				"text.js"
+			],
+			[
+				"ov",
+				"ov	overflow: ${1:hidden};"
+			],
+			[
+				"w",
+				"window  (variable)"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"img",
+				"img.jpg	w:160 h:160"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"bo",
+				"bottom:   (property)"
+			],
+			[
+				"po",
+				"pos-a	position: absolute;"
+			],
+			[
+				"ro",
+				"rotation:   (property)"
+			],
+			[
+				"sty",
+				"style	<style>"
+			],
+			[
+				"al",
+				"al	alert"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"si",
+				"size:   (property)"
+			],
+			[
+				"text",
+				"text-align:   (property)"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"displa",
+				"display:   (property)"
+			],
+			[
+				"se",
+				"setInterval  (function)"
+			],
+			[
+				"st",
+				"start/"
+			],
+			[
+				"im",
+				"images/"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"set",
+				"setInterval();"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"margin-t",
+				"margin-top:   (property)"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"m",
+				"m-a	margin: auto;"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"clic",
+				"click	.click()"
+			],
+			[
+				"bot",
+				"bottom:   (property)"
+			],
+			[
+				"click",
+				"clickNum  (variable)"
+			],
+			[
+				"clear",
+				"clearTimeout();"
+			],
+			[
+				"ds",
+				"display"
+			],
+			[
+				"colo",
+				"color:   (property)"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"wh",
+				"while  (keyword)"
+			],
+			[
+				"wi",
+				"write  (function)"
+			],
+			[
+				"p",
+				"pre	Tag"
+			],
+			[
+				"ti",
+				"title	<title>"
+			],
+			[
+				"re",
+				"reset	.reset()"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"mou",
+				"mouseover	.mouseover()"
+			],
+			[
+				"jq",
+				"jquery.mobile.custom.min.js"
+			],
+			[
+				"j",
+				"js/"
+			],
+			[
+				"mo",
+				"mousemove	.mousemove()"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"over",
+				"hover  (pseudo-class)"
+			],
+			[
+				"ra",
+				"random  (function)"
+			],
+			[
+				"app",
+				"append	.append()"
+			],
+			[
+				"hi",
+				"height:   (property)"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"do",
+				"document  (variable)"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"T",
+				"TweenMax.min.js"
+			],
+			[
+				"mi",
+				"minified/"
+			],
+			[
+				"h",
+				"html	.html()"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ta",
+				"ta-c	text-align: center;"
+			],
+			[
+				"pos",
+				"pos-a	position: absolute;"
+			],
+			[
+				"ht",
+				"html	.html()"
+			],
+			[
+				"Ca",
+				"CainPixi.js"
+			],
+			[
+				"ca",
+				"cainJsLib/"
+			],
+			[
+				"fun",
+				"function  (keyword)"
+			],
+			[
+				"exe",
+				"sys.exec();"
+			],
+			[
+				"ex",
+				"exists"
+			],
+			[
+				"ser",
+				"server"
+			],
+			[
+				"req",
+				"request_headers	CI - Request Headers"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"de",
+				"delta_"
+			],
+			[
+				"eac",
+				"each	.each()"
+			],
+			[
+				"div",
+				"div_"
+			],
+			[
+				"np",
+				"npcDiv"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"un",
+				"undefined"
+			],
+			[
+				"und",
+				"undefined  (keyword)"
+			],
+			[
+				"th",
+				"this	$(this)"
+			],
+			[
+				"af",
+				"afn	Anoynmous Function"
+			],
+			[
+				"on",
+				"onload"
+			],
+			[
+				"a",
+				"add	add"
+			],
+			[
+				"mode",
+				"module	QUnit module"
+			],
+			[
+				"d",
+				"div	<div>"
+			],
+			[
+				"call",
+				"callBack"
+			],
+			[
+				"C",
+				"cainJsLib"
+			],
+			[
+				"l",
+				"cainJsLib"
+			],
+			[
+				"c",
+				"cl	console.log"
+			],
+			[
+				"load",
+				"load_class  (function)"
+			],
+			[
+				"data",
+				"yaz_database"
+			],
+			[
+				"CI_M",
+				"CI_Model  (class)"
+			],
+			[
+				"Class",
+				"class_parents"
+			],
+			[
+				"te",
+				"templates"
+			],
+			[
+				"lo",
+				"load_view	CI - Load View"
+			],
+			[
+				"pag",
+				"pages"
+			],
+			[
+				"b",
+				"body	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Cain/Documents/GitHub/LeapMotion_Demo/threeDemo/CircleGeometry.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "SphereGeometry.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/sphereGeometryView.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/physijs.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"file": "BoxGeometry.html",
+			"file_size": 357,
+			"file_write_time": 130595451137274984,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Physijs.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"PAG",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"page",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"JS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Js",
+				"Set Syntax: JSON"
+			],
+			[
+				"J",
+				"Set Syntax: JSON"
+			],
+			[
+				"doc",
+				"Set Syntax: Rd (R Documentation)"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Cain/Documents/GitHub/Three3D_Demo/Physijs.html",
+		"/C/Users/Cain/Documents/GitHub/Three3D_Demo/CircleGeometry.html",
+		"/C/Users/Cain/Documents/GitHub/Three3D_Demo/js/main.js",
+		"/C/Users/Cain/Documents/GitHub/Cain_Javascript_Composition/html5/index.html",
+		"/C/Users/Cain/Documents/GitHub/Cain_Javascript_Composition/html5/js/main.js",
+		"/C/Users/Cain/Documents/GitHub/LeapMotion_Demo/demo3/js/main.js",
+		"/C/Users/Cain/Documents/GitHub/Cain_Javascript_Composition/html5/js/order.js",
+		"/C/Users/Cain/Documents/GitHub/RequireJS_Demo/demo2/index.html",
+		"/C/Users/Cain/Documents/GitHub/LeapMotion_Demo/demo3/index_mode.html",
+		"/C/Users/Cain/Documents/GitHub/LeapMotion_Demo/demo3/index.html",
+		"/C/Users/Cain/Documents/GitHub/LeapMotion_Demo/demo3/js/dde.js",
+		"/C/Users/Cain/Documents/GitHub/LeapMotion_Demo/demo3/js/dde",
+		"/C/Users/Cain/Documents/GitHub/LeapMotion_Demo/demo3/js/require.js",
+		"/C/Users/Cain/Documents/GitHub/LeapMotion_Demo/demo3/js/CanvasRenderer.js",
+		"/C/Users/Cain/Documents/GitHub/LeapMotion_Demo/demo1/index.html",
+		"/C/Users/Cain/Documents/GitHub/LeapMotion_Demo/demo1/js/main.js",
+		"/C/Users/Cain/Documents/GitHub/LeapMotion_Demo/demo1/index_use_requireJs.html",
+		"/C/Users/Cain/Documents/GitHub/LeapMotion_Demo/demo4/index.html",
+		"/C/Users/Cain/Documents/GitHub/LeapMotion_Demo/threeDemo/CircleGeometry.html",
+		"/C/Users/Cain/Documents/GitHub/LeapMotion_Demo/demo4/js/Detector.js",
+		"/C/Users/Cain/Documents/GitHub/LeapMotion_Demo/demo2/css/rest.css",
+		"/C/Users/Cain/Documents/GitHub/LeapMotion_Demo/demo2/index.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/ITFLionRun/user/index.html",
+		"/C/Users/Cain/Documents/GitHub/LeapMotion_Demo/index.html",
+		"/C/Users/Cain/Desktop/travel 0829.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/racing/com.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/ITFLionRun/user/fuck.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/node-webkit-v0.10.5-win-ia32/LionGood/index.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/racing/index.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/node-webkit-v0.10.5-win-ia32/LionGood/package.json",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/racing/index",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/npcDemo/npcDemo.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/node-webkit-v0.10.5-win-ia32/LionGood/page.bat",
+		"/E/cain_tmp/Dropbox/Dropbox/work/node-webkit-v0.10.5-win-ia32/早安雄獅/index.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/node-webkit-v0.10.5-win-ia32/早安雄獅/package.json",
+		"/E/cain_tmp/Dropbox/Dropbox/work/node-webkit-v0.10.5-win-ia32/早安雄獅/page.bat",
+		"/E/cain_tmp/Dropbox/Dropbox/work/ITFLionRun/view/index.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/ITFLionRun/user/tt3.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/ITFLionRun/user/tt2.html",
+		"/C/Users/Cain/Desktop/node-webkit-v0.10.5-win-ia32/itfview/package.json",
+		"/C/Users/Cain/Desktop/node-webkit-v0.10.5-win-ia32/itfview/package2.json",
+		"/E/cain_tmp/Dropbox/Dropbox/work/ITFLionRun/view/game2.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/ITFLionRun/view/js/LionGame.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/ITFLionRun/view/game1.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/ITFLionRun/com/index.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/ITFLionRun/ds/ds.js",
+		"/C/Users/Cain/Documents/GitHub/ds_server/ds.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/ITFLionRun/view/test.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/ITFLionRun/user/test.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/ITFLionRun/view/game.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/ITFLionRun/user/fuck2.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/pixi/CainPixi.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/ITFLionRun/view/LionGame.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/ITFLionRun/view/LionGame2.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/七彩雲南/src/FacebookConfig.as",
+		"/C/Users/Cain/Desktop/ms.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/ms/com.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/ms/view.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/ds/dsLink2.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/ds/dsLink.html",
+		"/C/Users/Cain/Desktop/ds.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/ms/ms.js",
+		"/C/Users/Cain/Desktop/imageData/imgView.js",
+		"/C/Users/Cain/Desktop/imageData/imageCom.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/ds/dsDemo.js",
+		"/E/cain_tmp/Dropbox/Dropbox/ms/ms.js",
+		"/E/cain_tmp/Dropbox/Dropbox/ms/view.html",
+		"/E/cain_tmp/Dropbox/Dropbox/nodejs/demo1.js",
+		"/C/Users/Cain/Desktop/nodeWebkit/ds/main.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/ds/ds.js",
+		"/C/Users/Cain/Desktop/nodeWebkit/ds/main2.html",
+		"/C/Users/Cain/Desktop/nodeWebkit/ds/package.json",
+		"/C/Users/Cain/Desktop/IcoMoon--limited--master/Icons/SVG/aid.svg",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/ds/main.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/jsDemo/index.html",
+		"/C/Users/Cain/Desktop/box2d-js_0.1.0/demos/demo_base.js",
+		"/C/Users/Cain/Desktop/box2d-js_0.1.0/demos/draw_world.js",
+		"/C/Users/Cain/Desktop/box2d-js_0.1.0/index.html",
+		"/E/cain_tmp/Dropbox/Dropbox/Public/demo/css3Demo1/index.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/陶板屋/html - 複製/js/view.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/陶板屋/html/js/view.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/陶板屋/html/sub_04.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/陶板屋/html - 複製/sub_04.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/陶板屋/html - 複製/sub_03.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/racing/map.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/racing/view.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/racing/cainJsLib/CainPixi.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/racing/reset.css",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/ds/dsDemo.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/陶板屋/html/css/templates.css",
+		"/E/cain_tmp/Dropbox/Dropbox/work/陶板屋/html/css/style.css",
+		"/E/cain_tmp/Dropbox/Dropbox/work/陶板屋/html/css/reset.css",
+		"/E/cain_tmp/Dropbox/Dropbox/work/陶板屋/html/sub_03.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/陶板屋/html/sub_02.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/陶板屋/html/index.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/陶板屋/html/sub_01.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/陶板屋/html/js/cainJsLib/CainImage.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/陶板屋/html/sub_05.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/陶板屋/html/js/custom.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/陶板屋/html/js/jquery.animateImages.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/陶板屋/html/js/jquery.md5.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/陶板屋/html/js/jquery.mousewheel.min.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/陶板屋/html/js/jquery-latest.min.js",
+		"/C/Users/Cain/Desktop/html/js/view.js",
+		"/C/Users/Cain/Desktop/html/sub_04.html",
+		"/C/Users/Cain/Desktop/html/ss.js",
+		"/C/Users/Cain/Desktop/html0814/index.html",
+		"/C/Users/Cain/Desktop/html0814/js/view.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/racing/ra.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/pixi/npcDemo2.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/racing/cainJsLib/CainImage.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/racing/CainPixi.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/nodsJs/racing/pixiView.html",
+		"/C/Users/Cain/Desktop/head/hd.js",
+		"/D/cain/xampp/htdocs/aa.html",
+		"/E/cain_tmp/Dropbox/Dropbox/Public/ds/dsDemo.html",
+		"/D/cain/xampp/htdocs/imageData/imgCom.html",
+		"/D/cain/xampp/htdocs/imageData/imgView.html",
+		"/D/cain/xampp/htdocs/imageData/img.html",
+		"/C/Users/Cain/Desktop/dsCom.html",
+		"/C/Users/Cain/Desktop/node-webkit-v0.10.1-win-ia32/example1.html",
+		"/E/cain_tmp/Dropbox/Dropbox/Public/ds/dsCom.html",
+		"/C/Users/Cain/Desktop/node-webkit-v0.10.1-win-ia32/ds.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/jsLib/cainJsLib/CainImage.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/jsLib/cainJsLib/test.js",
+		"/E/cain_tmp/Dropbox/Dropbox/work/jsLib/a.html",
+		"/E/cain_tmp/Dropbox/Dropbox/work/jsLib/cainJsLib/CainImage_tmp.js",
+		"/D/cain/xampp/htdocs/ds/dsDemo.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"container",
+			"\n  ",
+			"',\n",
+			"jq",
+			"normalize",
+			"THREE",
+			"Leap",
+			"Projector",
+			"onWindowResize",
+			"counter",
+			"countdown",
+			"\";\n",
+			" user_set_Id",
+			"setTd",
+			"bg",
+			"arrow",
+			"pixi_init_1",
+			"clickNumTxt",
+			"main",
+			"TweenLite",
+			"bg",
+			"console",
+			"pixi_init",
+			">\n",
+			"assetsLoader",
+			"報名已額滿",
+			"close",
+			"console",
+			"2222\n",
+			"{\n",
+			"close",
+			"closeRoom",
+			"123",
+			"firstX",
+			"maxBgShift",
+			"load",
+			"();\n",
+			"console",
+			"stage",
+			"ww",
+			"pixi_init",
+			"console",
+			"};\n",
+			"close",
+			"斷線",
+			"close",
+			"disconnect",
+			"console",
+			"linkDs",
+			"waitLink",
+			"-",
+			"initRoom",
+			";\n",
+			"v",
+			";\n",
+			"();\n",
+			"\"});\n",
+			");\n",
+			"npcNum",
+			"npcInit",
+			"if",
+			"++;\n",
+			"\";\n",
+			"swf",
+			"menu.swf",
+			"_image",
+			"if",
+			");",
+			">\n",
+			"));\n",
+			";\n",
+			"';\n",
+			"j",
+			"<"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Cain/Documents/GitHub/LeapMotion_Demo/threeDemo/CircleGeometry.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "SphereGeometry.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/sphereGeometryView.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/physijs.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "BoxGeometry.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Physijs.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Cain/Desktop/test.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1005.0,
+		"selected_items":
+		[
+		],
+		"width": 1280.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true
+}

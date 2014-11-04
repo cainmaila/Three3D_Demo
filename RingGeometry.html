@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+	<title>CircleGeometry</title>
+</head>
+<link rel="stylesheet" href="css/rest.css">
+<script src="js/Detector.js"></script>
+<script src="js/three/three.min.js"></script>
+<body>
+	<script>
+		(function  () {
+			"use strict";
+			//==================================================================================
+			if ( ! Detector.webgl ) Detector.addGetWebGLMessage();
+			window.onload = init;
+			var container,camera,scene,windowHalfX,windowHalfY,renderer,mesh;
+			function init () {
+				container = document.createElement( "div" );
+				document.body.appendChild( container );
+				camera = new THREE.PerspectiveCamera( 70, window.innerWidth / window.innerHeight, 1, 10000 );
+				camera.position.z = 200;
+				scene = new THREE.Scene();
+				renderer = new THREE.WebGLRenderer();
+				renderer.setClearColor( 0xf0f0f0 );
+				renderer.setSize( window.innerWidth, window.innerHeight );
+				renderer.sortObjects = false;
+				container.appendChild(renderer.domElement);
+				
+				var light = new THREE.DirectionalLight( 0xffffff, 1 );
+				light.position.set( 1, 1, 1 ).normalize();
+				scene.add( light );
+
+				var geometry = new THREE.RingGeometry( 10, 50, 320 );
+				var material = new THREE.MeshBasicMaterial( { color: 0xffff00, side: THREE.DoubleSide } );
+				mesh = new THREE.Mesh( geometry, material );
+				scene.add( mesh );
+
+				animate();
+				onWindowResize();
+			}
+
+			function animate () {
+				requestAnimationFrame( animate );
+				mesh.rotation.x += 0.01;
+				renderer.render( scene, camera );
+			}
+
+			function onWindowResize() {
+				windowHalfX = window.innerWidth / 2;
+				windowHalfY = window.innerHeight / 2;
+				camera.aspect = window.innerWidth / window.innerHeight;
+				camera.updateProjectionMatrix();
+				renderer.setSize( window.innerWidth, window.innerHeight );
+			}
+			//==================================================================================
+		})()
+	</script>
+</body>
+</html>
