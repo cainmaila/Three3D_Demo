@@ -40,7 +40,7 @@ require([
 		scene.add( light );
 		//模型
 		var geometry = new THREE.BoxGeometry( 100, 100, 100 );
-		var material = new THREE.MeshBasicMaterial( { color: 0xff0f00, side: THREE.DoubleSide } );
+		var material = new THREE.MeshLambertMaterial( { color: 0xff0f00 } );
 		mesh = new THREE.Mesh( geometry, material );
 		mesh.castShadow = true;//可擋光
 		mesh.receiveShadow = true;//可產生陰影

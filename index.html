@@ -3,9 +3,21 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-	<title>ThreeJs Viewer</title>
+	<title>== ThreeJs 範本 ==</title>
 	<link rel="stylesheet" href="css/rest.css">
 	<style type="text/css">
+		.til{
+			margin: 10px;
+		}
+		.gu {
+			margin: 10px;
+		}
+		#g1 {
+			height: 100px;
+		}
+		#g2 {
+			height: 100px;
+		}
 		.bn {
 			height: 50px;
 			background-color: #f0f0f0;
@@ -24,14 +36,20 @@
 	<script data-main="js/main" src="js/require.js"></script>
 </head>
 <body>
-	<div>
+	<div class="til"><h1>物件 Geometry</h1></div>
+	<div class="gu" id="g1">
 		<div class="bn" onclick="window.open('BoxGeometry.html','_blenk')">立方體 BoxGeometry</div>
 		<div class="bn" onclick="window.open('CircleGeometry.html','_blenk')">圓形 CircleGeometry</div>
 		<div class="bn" onclick="window.open('RingGeometry.html','_blenk')">中空圓 RingGeometry</div>
 		<div class="bn" onclick="window.open('CylinderGeometry.html','_blenk')">圓柱體 CylinderGeometry</div>
 		<div class="bn" onclick="window.open('SphereGeometry.html','_blenk')">球體 SphereGeometry</div>
+	</div>
+	<div class="til"><h1>其他 Other</h1></div>
+	<div class="gu" id="g2">
 		<div class="bn" onclick="window.open('Shadow.html','_blenk')">陰影 Shadow</div>
 		<div class="bn" onclick="window.open('physijs.html','_blenk')">物理 Physijs</div>
+		<div class="bn" onclick="window.open('BalanceDesk.html','_blenk')">平衡台範例 Balance Desk</div>
+		<div class="bn" onclick="window.open('BalanceDesk_Leap.html','_blenk')">平衡台範例LeapMotion版 Balance Desk</div>
 	</div>
 </body>
 </html>
